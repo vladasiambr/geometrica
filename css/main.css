@@ -1,0 +1,14 @@
+@import url('/libs/css/normalase.css');
+@import url('../css/fonts.css');
+@import url('../css/global.css');
+@import url('/css/reset.css');
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}

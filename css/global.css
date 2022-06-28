@@ -1,0 +1,24 @@
+:root{
+    --red-darken-1: #ff0000;
+    --red-darken-2: #e03226;
+    
+    
+    --grey-darken-1:#afafaf;
+    --grey-darken-2:#afafaf;
+    --grey-darken-3:#afafaf;
+    --grey-darken-4:#afafaf;
+    --grey-darken-5:#afafaf;
+    --grey-darken-6:#afafaf;
+    --grey-darken-7:#777777;
+    --grey-darken-8:#afafaf;
+
+--link-color:var(--grey-darken-7);
+--link-active-color:var(--grey-darken-8);
+--primary-color: var(--red-darken-1);
+--secondory-color:var(--red-darken-2);
+
+--section-title-color:var(--grey-darken-1);
+--product-title:var(--grey-darken-6);
+--text-colorvar:var(--grey-darken-6);
+}
+
